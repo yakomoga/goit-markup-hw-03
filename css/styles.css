@@ -11,14 +11,6 @@
   --btn-border-color: #e7e9fc;
 }
 
-.color-reg {
-  color: var(--reg-text-color);
-}
-
-.color-dark {
-  color: var(--logo-text-color-dark);
-}
-
 body {
   background: #ffffff;
 
@@ -30,8 +22,12 @@ body {
   color: #434455;
 }
 
-main {
-  background: #ffffff;
+.color-reg {
+  color: var(--reg-text-color);
+}
+
+.color-dark {
+  color: var(--logo-text-color-dark);
 }
 
 .list {
