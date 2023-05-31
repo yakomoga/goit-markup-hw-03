@@ -192,10 +192,14 @@ nav {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
+  margin-bottom: 48px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button {
   display: block;
+  margin: 0 auto;
   min-width: 169px;
   height: 56px;
   border: none;
