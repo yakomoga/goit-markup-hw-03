@@ -109,7 +109,6 @@ li {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color: #ffffff;
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -125,10 +124,6 @@ li {
 }
 
 .main-header {
-  height: 72px;
-  background: #ffffff;
-  border-bottom: 1px;
-  border-style: solid;
   border-bottom: 1px solid var(--btn-border-color);
 }
 
